@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-法桨日历--专业人士日历、黄历、择日、日程智能助手
+法桨日历--专业人士(如律师、程序员等）日历、黄历、择日、日程、运势智能助手
 
 应用技术
 
 * javafx
-* paddlepaddle
+* paddlepaddle（飞桨）
+* Paddle Quantum（量桨）
+* swisseph
+* 七政四余
 
 <!--
 **DaoCalendar/daocalendar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

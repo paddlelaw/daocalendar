@@ -2,6 +2,11 @@
 
 法桨日历--专业人士日历、黄历、择日、日程智能助手
 
+应用技术
+
+* javafx
+* paddlepaddle
+
 <!--
 **DaoCalendar/daocalendar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

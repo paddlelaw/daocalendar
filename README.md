@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-法桨日历--智能日历、黄历、择日、日程助手
+法桨日历--专业人士日历、黄历、择日、日程智能助手
 
 <!--
 **DaoCalendar/daocalendar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
